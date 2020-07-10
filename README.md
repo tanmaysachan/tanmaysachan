@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello world!
+
+My name is Tanmay, and I'm an undergrad at IIIT-H.
+I like everything from Machine learning to systems programming, except frontend development, which I despise.
+
+[personal website](tanmaysachan.github.io)
 
 <!--
 **tanmaysachan/tanmaysachan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
