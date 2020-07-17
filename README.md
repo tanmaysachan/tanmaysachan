@@ -1,9 +1,9 @@
-### Hello world!
+### Hello world! 😀
 
 My name is Tanmay, and I'm an undergrad at IIIT-H.
-I like everything from Machine learning to systems programming, except frontend development, which I despise.
+I like everything from Machine learning to systems programming, except frontend development, which I despise 🤢.
 
-Current interests/stuff I'm working on:
+👾 Current interests/stuff I'm working on:
 
 - Rust
 - Functional Programming
